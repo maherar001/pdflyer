@@ -35,7 +35,7 @@ function PdfToPowerPoint() {
 
     try {
       const response = await axios.post(
-        'https://v2.convertapi.com/convert/pdf/to/pptx?Secret=z6IfbOgrSAnuI7pCkwMQK1OCPUgOlRef',
+        'https://v2.convertapi.com/convert/pdf/to/pptx?Secret=ilH0oxHHZvAg8cQ5EG66IfGqLPMFUYh5',
         formData,
         {
           headers: {
